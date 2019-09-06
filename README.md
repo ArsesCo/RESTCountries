@@ -4,18 +4,23 @@
  * More Than 2000 Users Worldwide
  * Monthly Updates
  * 150 Request/Month Free
+ <h6>-Country</h6>
+ * Id
+ * Name
+ * Native Name
+ * Capital
+ * Region
+ * SubRegion
+ * Currency
+ * Calling Code
+ <h6>-State</h6>
+ 
+ -<h6>-City</h6>
  
 # Features
- * Alpha2 Code of All Countries
- * Alpha3 Code of All Countries
- * Calling Code of All Countries
- * Capital of All Countries
- * Flag of All Countries
- * Currency Code of All Countries
- * Language Code of All Countries
- * Region and SubRegion of All Countries
- * States of Countries
- * Cities of States
+ * Search Country By Calling Code
+ * Search Country By Currency
+ 
  
 # Where To Start
 To Use Our Api Go to https://rapidapi.com/arissoft.order/api/arses-country
