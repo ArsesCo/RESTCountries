@@ -1,1 +1,1 @@
-static Files
+Static Files
